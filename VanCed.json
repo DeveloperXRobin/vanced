@@ -1,5 +1,5 @@
 {
-  "show_dialog": true,
+  "show_dialog": false,
   "update_url": "https://t.me/Developer_X_Robin",
   "top_title": "Please Update Your App",
   "main_title": "App Update!",
